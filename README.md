@@ -18,7 +18,7 @@ For this project, I was using the Seattle AirBnB homes data to answer following 
 
 1.  Can we train a model which could predict review_scores_rating with mae < 10?
 2.  Can we identify a useful set of features with meaningful impact on target?
-3.  How do prices of apartments vary by number of beds available?¶
+3.  How do prices of apartments vary by number of beds available?
 
 ## File Descriptions <a name="files"></a>
 
@@ -26,7 +26,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@mt.svitek/can-machine-learning-be-a-revenue-booster-in-your-airbnb-business-522a7450b972?sk=1fcf306bdc77caafb09f994d43c05ed2).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
